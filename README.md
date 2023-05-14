@@ -1,2 +1,2 @@
-#  aditya-chawla-20.github.io
+#  coursera-test
 Coursera test repository
